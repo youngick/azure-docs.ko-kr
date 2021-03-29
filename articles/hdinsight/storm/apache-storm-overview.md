@@ -14,7 +14,7 @@ ms.locfileid: "104865335"
 ---
 # <a name="what-is-apache-storm-on-azure-hdinsight"></a>Azure HDInsight의 Apache Storm이란?
 
-[Apache Storm](https://storm.apache.org/)은 내결함성이 있는 분산형 오픈 소스 계산 시스템입니다. Storm을 사용하여 [Apache Hadoop](../hadoop/apache-hadoop-introduction.md)에서 실시간으로 데이터 스트림을 처리할 수 있습니다. 또한 Storm 솔루션은 처음에 정상적으로 처리되지 않은 데이터를 재생하는 기능을 통해 데이터 처리를 보장할 수 있습니다.
+[Apache Storm](https://storm.apache.org/)은 내결함성이 있는 분산형 오픈 소스 계산 시스템입니다. Storm을 사용하여 [Apache Hadoop](../hadoop/apache-hadoop-introduction.md)에서 실시간으로 데이터 스트림을 처리할 수 있습니다. 또한 Storm 솔루션은 처음에 정상적으로 처리되지 않은 데이터를 다시 처리하는 기능을 통해 데이터 처리를 보장할 수 있습니다.
 
 ## <a name="why-use-apache-storm-on-hdinsight"></a>HDInsight의 Apache Storm을 사용해야 하는 이유
 
